@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhawna Jangra</h1>
-<h3 align="center">Data Science Fresher</h3>
+<h3 align="center">Data Analyst Fresher</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/2e/5f/a7/2e5fa7244c0b05639d314009b4c1f2de.gif">
 
